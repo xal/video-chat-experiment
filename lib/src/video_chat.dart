@@ -1,16 +1,17 @@
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'dart:core';
-import 'package:video_chat_experiment/src/signaling.dart';
+import 'package:flutter_webrtc_video_chat/src/signaling.dart';
 import 'package:flutter_webrtc/webrtc.dart';
 import 'package:flutter_incall_manager/incall.dart';
 import 'package:uuid/uuid.dart';
 
 //import 'package:flutter_cupertino_localizations/flutter_cupertino_localizations.dart';
-import 'package:video_chat_experiment/localizations.dart';
+import 'package:flutter_webrtc_video_chat/localizations.dart';
 
 class VideoChat extends StatefulWidget {
-  final String ip = "95.110.175.35";
+//  final String ip = "95.110.175.35";
+  final String ip = "sip.howtofreelance.net";
   final String displayName;
 
   VideoChat({Key key, @required this.displayName}) : super(key: key);

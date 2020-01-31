@@ -1,4 +1,4 @@
-package net.quarella.videochatexperiment;
+package net.xal.webrtc_video_chat;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;
