@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'dart:core';
-import 'package:flutter_webrtc_video_chat/src/signaling.dart';
+import 'package:flutter_net.xal.webrtcvideochat/src/signaling.dart';
 import 'package:flutter_webrtc/webrtc.dart';
 import 'package:flutter_incall_manager/incall.dart';
 import 'package:uuid/uuid.dart';
 
 //import 'package:flutter_cupertino_localizations/flutter_cupertino_localizations.dart';
-import 'package:flutter_webrtc_video_chat/localizations.dart';
+import 'package:flutter_net.xal.webrtcvideochat/localizations.dart';
 
 class VideoChat extends StatefulWidget {
 //  final String ip = "95.110.175.35";

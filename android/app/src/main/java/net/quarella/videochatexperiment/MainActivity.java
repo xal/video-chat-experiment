@@ -1,4 +1,4 @@
-package net.xal.webrtc_video_chat;
+package net.xal.net.xal.webrtcvideochat;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;

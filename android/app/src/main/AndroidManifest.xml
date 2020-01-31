@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="net.xal.webrtc_video_chat">
+    package="net.xal.net.xal.webrtcvideochat">
 
     <!-- The INTERNET permission is required for development. Specifically,
          flutter needs it to communicate with the running application

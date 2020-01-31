@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'dart:core';
 import 'package:flutter/services.dart';
-import 'package:flutter_webrtc_video_chat/src/video_chat.dart';
+import 'package:flutter_net.xal.webrtcvideochat/src/video_chat.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
 //import 'package:flutter_cupertino_localizations/flutter_cupertino_localizations.dart';
 import 'localizations.dart';
